@@ -1,0 +1,35 @@
+[{
+        "title": "SPK Metode Profile Maching",
+        "image": "./assets/img/project/spk.jpg",
+        "links": {
+           
+        }
+    },
+    {
+        "title": "Learn Code Website",
+        "image": "./assets/img/project/proyek web dasar.png",       
+        "links": {
+           
+        }
+    }, {
+        "title": "BookShelf Web App",
+        "image": "./assets/img/project/bookshelf app.png",
+        
+        "links": {
+          
+        }
+    }, {
+        "title": "Company Profile",
+        "image": "./assets/img/project/proyek freelance.png",
+        "desc": "This is my project for company profile(Thalia Education)",
+        "links": {
+        
+        }
+    }, {
+        "title": "Portfolio Website",
+        "image": "./assets/img/project/porto.png",
+        "links": {
+         
+        }
+    }
+]

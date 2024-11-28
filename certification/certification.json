@@ -1,0 +1,20 @@
+[
+    {
+        "name": "CV Isometrik Teknindo",
+        "image": "./certification/iso.png",
+        "links": {
+           
+        }
+    }, {
+        "name": "Learn basic web programming",
+        "image": "./certification/molex.jpg",
+        "links": {
+        }
+    }, {
+        "name": "Learn basic javascript programming",
+        "image": "./certification/visi.png",
+        "links": {
+        }
+   
+    }
+]
